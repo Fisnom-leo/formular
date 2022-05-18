@@ -40,8 +40,10 @@ button {
  h1{
     font-family: 'Smooch', cursive;
     color: rgb(255, 140, 0);
-  font-weight: 400;
-  font-size: 100px;
+    font-weight: 100;
+    font-size: 400%;
+
+ 
  }
  .l1{
      color: rgb(39, 112, 15);
